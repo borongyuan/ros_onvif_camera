@@ -7,7 +7,7 @@
   <version>0.1.0</version>
   <description>ROS node for control of ONVIF cameras.</description>
   <maintainer email="user@todo.todo">user</maintainer>
-  <license>GPLv3</license>
+  <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>
 
